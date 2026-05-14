@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Home - Coming Soon",
+  title: "QuantexMart",
   description: 'A lightweight and responsive coming soon template built with Next.js and Tailwind CSS.',
   icons: {
     icon: '/favicon.ico',
