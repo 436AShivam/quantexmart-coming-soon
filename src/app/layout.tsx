@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "QuantexMart",
   description: 'Items specially customized to keep up with your emotions',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/logo.ico',
   },
 };
 
